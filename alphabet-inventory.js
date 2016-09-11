@@ -1,0 +1,2 @@
+// Alphabet Inventory 
+// Given an alphabet and a string of text, write a method that tallies the count of each letter defined in said alphabet (case insensitive), then return the result of this tally.
